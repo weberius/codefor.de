@@ -4,31 +4,22 @@ title: Code for Beispiel # Name des Labs. Zb Überschrift der lab-seite
 lat: 53
 long: 8
 markerposition: left # left | right
-showsignup: true # true | false
-
-members:
-- name: Maria Member
-  username_github: codeforbeispiel
-  username_twitter: codeforbeispiel
-- name: ""
-  username_github: andereruser
-  username_twitter: andereruser
 
 links:
 - name: Webseite
   url: https://code-for-beispiel.de
   top: true # true | false
   
-- name: GetTogether
-  url: https://gettogether.community/code-for-beispiel/
+- name: Mobilizon
+  url: https://termine.social/code-for-beispiel/
   top: true # true | false
 
 - name: GitHub
   url: https://github.com/codeforbeispiel
   top: true # true | false
 
-- name: Twitter
-  url: https://twitter.com/codeforbeispiel
+- name: Mastodon
+  url: https://mastodon.social/codeforbeispiel
   top: true # true | false
 
 leads:

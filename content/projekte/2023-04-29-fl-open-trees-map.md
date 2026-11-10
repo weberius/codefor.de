@@ -3,7 +3,7 @@ layout: project
 lab: [flensburg]
 imgname: flensburg/baumkataster_stadt_flensburg.png
 title: Straßenbäume der Stadt Flensburg
-status: Sucht Mitstreiter
+status: Sucht ehrenamtlich Engagierte
 showcase: true
 draft: false
 
@@ -13,18 +13,16 @@ links:
   name: GitHub
 - url: https://opendata.schleswig-holstein.de/dataset/baumkataster-flensburg-2023-05-11
   name: Datenquelle
-- url: https://baumkataster-flensburg.de
+- url: https://baumkataster.oklabflensburg.de
   name: Website
 
 collaborators:
+- name: David Bornemann
+- name: Felix-Claudius Dietz
 - name: Aurelius Wendelken
-
 - name: Roald Christesen
-
 - name: Alexander Eichhorn
-
 - name: Steffen Kunst
-
 - name: Gabi Ritter
 
 tags:

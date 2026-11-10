@@ -10,38 +10,12 @@ aliases:
 - /bielefeld
 - /bi
 
-members:
-
-- name: Helen Bielawa
-  username-github: helenbielawa
-  username-twitter: helenbielawa
-
-- name: Florian Gellert
-  username-github: gllrt
-  username-twitter: fgllrt
-
-- name: Theresa Lampe
-  username-github: theresalampe
-  username-twitter: theresala95
-
-- name: Chris Werner Rau
-  username-github: cwrau
-  username-twitter: cwrau
-
-- name: Meike Wocken
-  username-github: micky-m
-  username-twitter: CountessOfCount
-
-
 links:
 - name: Meetup
   url: http://www.meetup.com/Code-For-Bielefeld//
 
-- name: GetTogether
-  url: https://gettogether.community/code-for-bielefeld/
-
-- name: Twitter
-  url: http://twitter.com/codeforbi
+- name: LinkedIn
+  url: https://www.linkedin.com/company/codeforbi/
 
 - name: Instagram
   url: https://www.instagram.com/codeforbi/
@@ -55,9 +29,20 @@ leads:
 
 Willkommen bei Code for Bielefeld!
 
-Wir sind eine Gruppe von Menschen mit Interessen und Fähigkeiten in den Bereichen Hardware-/Software-Entwicklung, Design und Open Data.
-Gemeinsam wollen wir digitale Werkzeuge und Visualisierungen erstellen, um öffentliche Daten für Bürger*innen sichtbar und nutzbar zu machen.
+Was wir machen:
 
-Jede*r Interessierte ist herzlich eingeladen vorbeizuschauen und mitzumachen!
+Wir beschäftigen uns mit Daten rund um Bielefeld und wollen unsere Stadt besser machen. Zum Beispiel entwickeln wir Anwendungen, die Daten nutzbar machen, wir erheben selbst Daten, oder wir bauen Sensoren. Vor allem möchten wir unser Wissen teilen und möglichst viele Menschen befähigen, Daten und digitale Tools zu nutzen. Dafür halten wir Vorträge oder geben Workshops. Auch auf politischer Ebene sind wir aktiv. Wir haben die Datenethik-Richtlinie der Stadt mitentwickelt und setzen uns für mehr offene Daten, eine transparente Verwaltung und Beteiligungsmöglichkeiten ein.
 
-Werde Mitglied in unserer MeetUp-Gruppe, um über Veranstaltungen und Treffen auf dem Laufenden gehalten zu werden.
+Eine Übersicht über unsere konkreten Projekte findest Du unten auf dieser Seite.
+
+Wer wir sind:
+
+Wir sind eine Gruppe von Menschen mit Interessen und Fähigkeiten in den Bereichen Hardware-/Software-Entwicklung, Design, Datenanalyse, Open Data und Kommunikation. Im März 2020 haben wir uns zusammengefunden, seit Ende 2022 sind wir offiziell ein eingetragener gemeinnütziger Verein.
+
+Wie du mitmachen kannst:
+
+Jede*r Interessierte ist herzlich eingeladen vorbei zu schauen und mitzumachen! Ob du etwas lernen willst, deine Skills ehrenamtlich einsetzen oder dich mit Ideen und Meinungen einbringen möchtest - wir freuen uns auf Dich.
+
+Werde Mitglied in unserer MeetUp-Gruppe, um über Veranstaltungen und Treffen auf dem Laufenden gehalten zu werden. Oder schreib uns per Instagram, LinkedIn oder Mail.
+
+Schau am Donnerstagabend um 18.30 Uhr bei unseren offenen Selbstlern-, Coding-, und Austauschtreffen vorbei, im Innovation Office der Stadt: Alter Markt 13, 33602 Bielefeld

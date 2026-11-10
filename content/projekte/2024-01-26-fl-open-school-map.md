@@ -3,7 +3,7 @@ layout: project
 lab: [flensburg]
 imgname: flensburg/screenshot_bildungsatlas.jpg
 title: Bildungsatlas Flensburg
-status: Sucht Mitstreiter
+status: Sucht ehrenamtlich Engagierte
 showcase: true
 draft: false
 
@@ -13,7 +13,7 @@ links:
   name: GitHub
 - url: https://www.statistik-nord.de/fileadmin/Dokumente/Verzeichnisse/Schulverzeichnis_A_22-23.pdf
   name: Datenquelle
-- url: https://schulen-in-flensburg.de
+- url: https://schulkarte.oklabflensburg.de
   name: Website
 
 collaborators:

@@ -10,13 +10,7 @@ inactive: true
 aliases:
 - /potsdam
 
-members: []
-
-
 links:
-
-- name: GetTogether
-  url: https://gettogether.community/ok-lab-potsdam/
 
 - name: Twitter
   url: https://twitter.com/oklabpdm

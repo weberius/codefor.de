@@ -9,185 +9,13 @@ markerposition: right
 aliases:
 - /berlin
 
-members:
-
-- name: Stefan Wehrmeyer
-  username_github: stefanw
-  username_twitter: stefanwehrmeyer
-
-- name: Lucas Jacob
-  username_github: LucasJ
-
-- name: Magdalena Noffke
-  username_github: MagdaN
-  username_twitter: MagdalenaNoffke
-
-- name: Friedrich Lindenberg
-  username_github: pudo
-
-- name: Sebastian Mondial
-  username_twitter: kappuchino
-
-- name: Christian Pape
-  username_twitter: chrpape
-
-- name: Knud Möller
-  username_github: knudmoeller
-  username_twitter: knudmoeller
-
-- name: Knut Hühne
-  username_github: k-nut
-
-- name: Jochen Klar
-  username_github: jochenklar
-  username_twitter: jochenklar
-
-- name: Thomas Schmidt
-  username_github: netAction
-  sername-twitter: netAction
-
-- name: Moritz Klack
-  username_github: moklick
-  username_twitter: moklick
-
-- name: Daniel Dietrich
-  username_github: ddie
-  username_twitter: ddie
-
-- name: Christopher Möller
-  username_github: chrtze
-
-- name: Andy Lindemann
-  username_github: AndyTheGiant
-  username_twitter: andymensional
-
-- name: Friedrich Schuman
-
-- name: Michael Hörz
-  username_github: m-hoerz
-  username_twitter: data_meining
-
-- name: Niklas Riekenbrauck
-  username_github: nikriek
-  username_twitter: nikriek
-
-- name: Thomas Tursics
-  username_github: tursics
-  username_twitter: tursics
-
-- name: Stefan Heil
-  username_twitter: Pol_Hackonomist
-
-- name: Dirk Schumacher
-  username_github: dirkschumacher
-  username_twitter: dirk_sch
-
-- name: Daniel Mack
-  username_github: zonque
-  username_twitter: zonque
-
-- name: Udo Kramer
-  username_github: optikfluffel
-  username_twitter: optikfluffel
-
-- name: Simon Jockers
-  username_github: sjockers
-  username_twitter: sjockers
-
-- name: Christian Rijke
-  username_github: cnrk
-  username_twitter: crijke
-
-- name: Ulrike Thalheim
-
-- name: Stefan Graupner
-  username_github: eFrane
-  username_twitter: eFrane
-
-- name: Giuseppe Di Vincenzo
-  username_github: g-div
-
-- name: Adrian Partl
-  username_github: adrpar
-  username_twitter: AdrianPartl
-
-- name: Christine Pautsch
-  username_github: jabka
-  username_twitter: jabka
-
-- name: André Rebentisch
-  username_github: agonarch
-  username_twitter: agonarch
-
-- name: Claus Höfele
-  username_github: choefele
-  username_twitter: claushoefele
-
-- name: Roland Möws
-
-- name: Mario Behling
-  username_github: mariobehling
-  username_twitter: mariobehling
-
-- name: Tobias Kräntzer
-  username_github: anagromataf
-  username_twitter: anagrom_ataf
-
-- name: Holger Drewes
-  username_github: holgerd77
-  username_twitter: HolgerD77
-
-- name: Tobias Preuss
-  username_github: johnjohndoe
-  username_twitter: tbsprs
-
-- name: Christoph Lauer
-  username_github: notapirate
-
-- name: Marc Kastner
-  username_github: happy-koala
-  username_twitter: marc_kastner
-
-- name: Alex Corbi
-  username_github: acorbi
-  username_twitter: acorbi
-
-- name: Elf Pavlik
-  username_github: elf-pavlik
-  username_twitter: elfpavlik
-
-- name: Jon Richter
-  username_github: almereyda
-  username_twitter: almereyda
-
-- name: Hans-Helge Bürger
-  username_github: obstschale
-  username_twitter: obstschale
-
-- name: Katharina Albers
-  username_github: fuzzylogic2000
-  username_twitter: fuzzylogic2020
-
-- name: Zhuo-Fei Hui
-  username_github: zfhui
-  username_twitter: zfhui
-
-- name: Jannis R
-  username_github: derhuerst
-  username_twitter: derhuerst
-
-- name: Julius Tens
-  username_github: juliuste
-  username_twitter: juliustens
-
-
 links:
-- name: Meetup
-  url: http://www.meetup.com/OK-Lab-Berlin/
 - name: Mastodon
   url: https://chaos.social/@codeforbe
 - name: Github
   url: https://github.com/codeforberlin
+- name: Kalender (.ics)
+  url: https://codeforberlin.github.io/calendar/ok-lab-berlin.ics
 
 feeds:
 - type: ical
@@ -201,4 +29,33 @@ leads:
 
 ---
 
-Willkommen beim Berliner OK Lab! Wir sind etwa 30 Leute und arbeiten in verschiedenen Gruppen an Projekten rund um Open Data und Civic Tech. Wir kommen aus ganz verschiedenen Bereichen, entsprechend behandeln auch die Projekte an denen wir arbeiten ganz unterschiedliche Themen. Wir treffen uns jeden zweiten Montag im Monat im [Wikibär](https://de.wikipedia.org/wiki/Wikipedia:WikiB%C3%A4r) in der [Köpenicker Straße 45](https://www.openstreetmap.org/node/6488130826).
+Willkommen beim Berliner OK Lab! Wir sind eine Gruppe aus Open Data Aktivist:innen, Softwareentwickler:innen, Open-Government-Expert:innen und anderen Aktiven, die sich ehrenamtlich für freie Software, offene Daten und eine nachhaltige digitale Transformation in Politik und Verwaltung einsetzen.
+
+Wir treffen uns **an jedem zweiten Montag im Monat** im [Wikibär](https://de.wikipedia.org/wiki/Wikipedia:WikiB%C3%A4r) in der Köpenicker Straße 45, um über die neuesten technologischen und politischen Entwicklungen zu sprechen und an unseren Projekten zu arbeiten. Komm gerne dazu!
+
+Bei unseren Treffen sieht der Ablauf ungefähr so aus:
+    
+* Einlass ab 18:00 Uhr
+* Vorstellungsrunde und kurze Einführung ab 19:00 Uhr
+* (optional) Gemeinsamer Blick auf ein konkretes Projekt oder eine Technologie bis etwa 20:00 Uhr.
+* Austausch und Coden bis ca. 22:00 Uhr. Du kannst gerne bleiben oder nach dem Input gehen.
+
+
+Wenn du vorab Fragen hast, melde dich gerne bei uns. Wir sprechen Deutsch und Englisch und richten uns danach, was für die Teilnehmenden am besten passt.
+
+---
+
+Welcome to the Berlin OK Lab! We are a group of open data activists, software developers, open government experts and other engaged people who volunteer for free software, open data and a sustainable digital transformation in politics and public administration.
+
+We meet **on the second Monday of every month** at the [Wikibär](https://de.wikipedia.org/wiki/Wikipedia:WikiB%C3%A4r) at Köpenicker Straße 45 to talk about the latest technological and political developments and to work on our projects. Feel free to join us!
+
+Our meetings usually go roughly like this:
+
+* Doors open at 6:00 pm
+* Round of introductions and a short orientation from 7:00 pm
+* (optional) A joint look at a specific project or technology until about 8:00 pm
+* Exchange and coding until around 10:00 pm. You're welcome to stay or to leave after the input.
+
+If you have any questions beforehand, feel free to get in touch with us. We speak German and English and go with whatever works best for the participants.
+
+---
